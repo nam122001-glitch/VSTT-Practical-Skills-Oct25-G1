@@ -1,0 +1,19 @@
+# Raw source data — download from opendata.rijdendetreinen.nl
+services-*.csv.gz
+*.csv.gz
+
+# Generated output — reproduce with clean_rdt.py
+out/
+stops_2024-*.csv
+services.csv
+
+# Tableau artefacts
+*.hyper
+*.twbx
+*.twb
+Book*.twb*
+
+# Python
+__pycache__/
+*.pyc
+.venv/

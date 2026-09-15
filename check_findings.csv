@@ -1,0 +1,19 @@
+finding,scope / filter in Tableau,metric,expected_value
+F1,"month=1, is_international=False, is_cancelled_stop=False",% stops delay>=5min,6.24
+F1,"month=3, same filters",% stops delay>=5min,4.22
+F1,"month=7, same filters",% stops delay>=5min,3.74
+F1,"month=10, same filters",% stops delay>=5min,4.77
+F1,"month=1, is_international=False (cancelled INCLUDED)",% stops cancelled,5.8
+F2,stop_seq=1,% delay>=5min,2.24
+F2,stop_seq 9-12,% delay>=5min,6.4
+F2,stop_seq 21-40,% delay>=5min,9.24
+F3,hour=8,% delay>=5min,4.97
+F3,hour=19,% delay>=5min,5.51
+F3,hour=13,% delay>=5min,3.84
+F4,station_code=BD,% delay>=5min,11.78
+F4,station_code=SHL,% delay>=5min,11.22
+F4,station_code=ES (Enschede),% delay>=5min,2.22
+F5,"station_code=SHL, is_international=False",% platform change,53.72
+F5,all NL stops,% platform change,2.71
+all,"is_international=False, is_cancelled_stop=False",% on time <5min,95.28
+all,no filter,row count,7446764.0

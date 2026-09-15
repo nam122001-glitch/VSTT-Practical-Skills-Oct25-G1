@@ -1,0 +1,51 @@
+step,detail,rows_affected
+stations.read,rows read from stations-2023-09-nl.csv,397
+stations.fix,empty station code filled with synthetic 'NWAD' (Nieuw Amsterdam),1
+stations.verify,all coordinates inside NL bounding box,397
+services.read,rows read from services-2024-01.csv.gz,1804901
+services.duplicates,duplicate stop records removed,0
+services.dtypes,"booleans, Int32 delays and tz-aware times (Europe/Amsterdam) cast",1804901
+services.fix,empty station code filled for Nieuw Amsterdam,2272
+derive.stop_role,origin / intermediate / terminus derived from missing times,376864
+derive.stop_time,stops dropped with neither arrival nor departure time,853
+clean.bad_timestamp,stops dropped: timestamp more than 1 day from the service date (source error),10
+clean.overnight,"stops on the day after the service date (overnight trains, kept)",64757
+derive.punctuality,delay_min + 5/15-minute flags; cancelled stops excluded from delay,105860
+derive.international,stops at non-NL stations flagged,109903
+derive.route,route (origin - terminus) and stop sequence derived per service,870
+output,"stops_2024-01.csv (153 MB) + 187,778 services",1804038
+services.read,rows read from services-2024-03.csv.gz,1846171
+services.duplicates,duplicate stop records removed,0
+services.dtypes,"booleans, Int32 delays and tz-aware times (Europe/Amsterdam) cast",1846171
+services.fix,empty station code filled for Nieuw Amsterdam,2269
+derive.stop_role,origin / intermediate / terminus derived from missing times,408049
+derive.stop_time,stops dropped with neither arrival nor departure time,664
+clean.bad_timestamp,stops dropped: timestamp more than 1 day from the service date (source error),3
+clean.overnight,"stops on the day after the service date (overnight trains, kept)",68390
+derive.punctuality,delay_min + 5/15-minute flags; cancelled stops excluded from delay,96949
+derive.international,stops at non-NL stations flagged,106490
+derive.route,route (origin - terminus) and stop sequence derived per service,1166
+output,"stops_2024-03.csv (156 MB) + 202,644 services",1845504
+services.read,rows read from services-2024-07.csv.gz,1911334
+services.duplicates,duplicate stop records removed,0
+services.dtypes,"booleans, Int32 delays and tz-aware times (Europe/Amsterdam) cast",1911334
+services.fix,empty station code filled for Nieuw Amsterdam,2338
+derive.stop_role,origin / intermediate / terminus derived from missing times,456054
+derive.stop_time,stops dropped with neither arrival nor departure time,1832
+clean.bad_timestamp,stops dropped: timestamp more than 1 day from the service date (source error),3
+clean.overnight,"stops on the day after the service date (overnight trains, kept)",70816
+derive.punctuality,delay_min + 5/15-minute flags; cancelled stops excluded from delay,83739
+derive.international,stops at non-NL stations flagged,106939
+derive.route,route (origin - terminus) and stop sequence derived per service,979
+output,"stops_2024-07.csv (161 MB) + 227,031 services",1909499
+services.read,rows read from services-2024-10.csv.gz,1887723
+services.duplicates,duplicate stop records removed,0
+services.dtypes,"booleans, Int32 delays and tz-aware times (Europe/Amsterdam) cast",1887723
+services.fix,empty station code filled for Nieuw Amsterdam,2300
+derive.stop_role,origin / intermediate / terminus derived from missing times,438506
+derive.stop_time,stops dropped with neither arrival nor departure time,0
+clean.overnight,"stops on the day after the service date (overnight trains, kept)",66777
+derive.punctuality,delay_min + 5/15-minute flags; cancelled stops excluded from delay,68016
+derive.international,stops at non-NL stations flagged,107278
+derive.route,route (origin - terminus) and stop sequence derived per service,989
+output,"stops_2024-10.csv (160 MB) + 219,174 services",1887723

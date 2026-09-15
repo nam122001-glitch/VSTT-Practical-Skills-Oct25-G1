@@ -1,0 +1,398 @@
+station_code,station_name,station_name_medium,station_uic,station_type,station_tier,is_junction,country,lat,lng
+HT,'s-Hertogenbosch,'s-Hertogenbosch,8400319,knooppuntIntercitystation,Intercity station,True,NL,51.69048,5.29362
+HTO,'s-Hertogenbosch Oost,'s-Hertogenb. O.,8400320,stoptreinstation,Local station,False,NL,51.700553894043,5.3183331489563
+HDE,'t Harde,'t Harde,8400388,stoptreinstation,Local station,False,NL,52.4091682,5.893611
+ATN,Aalten,Aalten,8400045,stoptreinstation,Local station,False,NL,51.921326524551,6.5786272287369
+AC,Abcoude,Abcoude,8400047,stoptreinstation,Local station,False,NL,52.2785,4.977
+AKM,Akkrum,Akkrum,8400049,stoptreinstation,Local station,False,NL,53.046390533447,5.843611240387
+AMR,Alkmaar,Alkmaar,8400050,knooppuntIntercitystation,Intercity station,True,NL,52.63777923584,4.7397222518921
+AMRN,Alkmaar Noord,Alkmaar Noord,8400052,stoptreinstation,Local station,False,NL,52.643890380859,4.7641668319702
+AML,Almelo,Almelo,8400051,knooppuntIntercitystation,Intercity station,True,NL,52.358055114746,6.6538887023926
+AMRI,Almelo de Riet,de Riet,8400520,stoptreinstation,Local station,False,NL,52.341945648193,6.6666665077209
+ALMB,Almere Buiten,Buiten,8400081,stoptreinstation,Local station,False,NL,52.394165039062,5.2780556678772
+ALM,Almere Centrum,Almere C.,8400080,knooppuntIntercitystation,Intercity station,True,NL,52.37503,5.21764
+ALMM,Almere Muziekwijk,Muziekwijk,8400082,stoptreinstation,Local station,False,NL,52.367500305176,5.1902775764465
+ALMO,Almere Oostvaarders,Oostvaarders,8400226,stoptreinstation,Local station,False,NL,52.403331756592,5.3005557060242
+ALMP,Almere Parkwijk,Parkwijk,8400104,stoptreinstation,Local station,False,NL,52.376667022705,5.244722366333
+AMPO,Almere Poort,Poort,8400450,stoptreinstation,Local station,False,NL,52.342778,5.151944
+APN,Alphen a/d Rijn,Alphen a/d Rijn,8400053,knooppuntIntercitystation,Intercity station,True,NL,52.124443054199,4.6577777862549
+AMF,Amersfoort Centraal,Amersfoort C.,8400055,knooppuntIntercitystation,Intercity station,True,NL,52.153888702393,5.3705554008484
+AMFS,Amersfoort Schothorst,Schothorst,8400054,stoptreinstation,Local station,False,NL,52.174822137451,5.4038887023926
+AVAT,Amersfoort Vathorst,Vathorst,8400228,stoptreinstation,Local station,False,NL,52.192779541016,5.4338889122009
+ASA,Amsterdam Amstel,Amstel,8400057,intercitystation,Intercity station,False,NL,52.346668243408,4.9177780151367
+ASB,Amsterdam Bijlmer ArenA,Bijlmer ArenA,8400074,knooppuntStoptreinstation,Local station,True,NL,52.3122215271,4.9469442367554
+ASD,Amsterdam Centraal,Amsterdam C.,8400058,megastation,Mega station,False,NL,52.378887176514,4.9002776145935
+ASHD,Amsterdam Holendrecht,Holendrecht,8400231,stoptreinstation,Local station,False,NL,52.29844,4.95972
+ASDL,Amsterdam Lelylaan,Lelylaan,8400079,stoptreinstation,Local station,False,NL,52.357776641846,4.8338890075684
+ASDM,Amsterdam Muiderpoort,Muiderpoort,8400060,stoptreinstation,Local station,False,NL,52.360553741455,4.9311113357544
+RAI,Amsterdam RAI,RAI,8400056,stoptreinstation,Local station,False,NL,52.337223052979,4.8902778625488
+ASSP,Amsterdam Science Park,Science Park,8400235,stoptreinstation,Local station,False,NL,52.35526,4.94651
+ASS,Amsterdam Sloterdijk,Sloterdijk,8400059,knooppuntIntercitystation,Intercity station,True,NL,52.388889312744,4.8377776145935
+ASDZ,Amsterdam Zuid,Amsterdam Zuid,8400061,intercitystation,Intercity station,False,NL,52.338889,4.872356
+ANA,Anna Paulowna,Anna Paulowna,8400065,stoptreinstation,Local station,False,NL,52.867221832275,4.8111109733581
+APD,Apeldoorn,Apeldoorn,8400066,knooppuntIntercitystation,Intercity station,True,NL,52.209167480469,5.9702777862549
+APDM,Apeldoorn De Maten,De Maten,8400233,stoptreinstation,Local station,False,NL,52.205276489258,6.0005555152893
+APDO,Apeldoorn Osseveld,Osseveld,8400229,stoptreinstation,Local station,False,NL,52.215278625488,6.0044445991516
+APG,Appingedam,Appingedam,8400067,stoptreinstation,Local station,False,NL,53.3258135,6.8619577
+AKL,Arkel,Arkel,8400068,stoptreinstation,Local station,False,NL,51.87194442749,4.9927778244019
+ARN,Arnemuiden,Arnemuiden,8400069,stoptreinstation,Local station,False,NL,51.501667022705,3.6691665649414
+AH,Arnhem Centraal,Arnhem C.,8400071,knooppuntIntercitystation,Intercity station,True,NL,51.985000610352,5.8991665840149
+AHPR,Arnhem Presikhaaf,Presikhaaf,8400075,stoptreinstation,Local station,False,NL,51.988056182861,5.9438886642456
+AHP,Arnhem Velperpoort,Velperpoort,8400072,stoptreinstation,Local station,False,NL,51.985279083252,5.9194445610046
+AHZ,Arnhem Zuid,Arnhem Zuid,8400227,stoptreinstation,Local station,False,NL,51.955001831055,5.8519444465637
+ASN,Assen,Assen,8400073,knooppuntIntercitystation,Intercity station,True,NL,52.991664886475,6.5708332061768
+BRN,Baarn,Baarn,8400086,knooppuntStoptreinstation,Local station,True,NL,52.208332061768,5.2808332443237
+NSCH,Bad Nieuweschans,Bad Nieuweschans,8400457,knooppuntStoptreinstation,Local station,True,NL,53.1844,7.19937
+BF,Baflo,Baflo,8400089,stoptreinstation,Local station,False,NL,53.3608969,6.5185581
+BRD,Barendrecht,Barendrecht,8400090,stoptreinstation,Local station,False,NL,51.854721069336,4.5533332824707
+BNC,Barneveld Centrum,Barneveld C.,8400091,stoptreinstation,Local station,False,NL,52.139999389648,5.590277671814
+BNN,Barneveld Noord,Barneveld Noord,8400092,stoptreinstation,Local station,False,NL,52.161388397217,5.5980553627014
+BNZ,Barneveld Zuid,Barneveld Zuid,8400115,stoptreinstation,Local station,False,NL,52.128853,5.60246
+BDM,Bedum,Bedum,8400094,stoptreinstation,Local station,False,NL,53.3068857,6.593054
+BK,Beek-Elsloo,Beek-Elsloo,8400096,stoptreinstation,Local station,False,NL,50.947498321533,5.7866668701172
+BSD,Beesd,Beesd,8400097,stoptreinstation,Local station,False,NL,51.899444580078,5.1944446563721
+BL,Beilen,Beilen,8400100,stoptreinstation,Local station,False,NL,52.854721069336,6.5211110115051
+BGN,Bergen op Zoom,Bergen op Zoom,8400108,stoptreinstation,Local station,False,NL,51.49388885498,4.2961111068726
+BET,Best,Best,8400112,stoptreinstation,Local station,False,NL,51.509998321533,5.3891668319702
+BV,Beverwijk,Beverwijk,8400113,stoptreinstation,Local station,False,NL,52.478332519531,4.6566667556763
+BHV,Bilthoven,Bilthoven,8400114,stoptreinstation,Local station,False,NL,52.130001068115,5.2038888931274
+BR,Blerick,Blerick,8400117,stoptreinstation,Local station,False,NL,51.372501373291,6.1550002098083
+BLL,Bloemendaal,Bloemendaal,8400118,stoptreinstation,Local station,False,NL,52.404167175293,4.6275000572205
+BDG,Bodegraven,Bodegraven,8400121,stoptreinstation,Local station,False,NL,52.081390380859,4.7461109161377
+BN,Borne,Borne,8400124,stoptreinstation,Local station,False,NL,52.298889160156,6.7480554580689
+BSK,Boskoop,Boskoop,8400125,stoptreinstation,Local station,False,NL,52.077777862549,4.6469445228577
+BSKS,Boskoop Snijdelwijk,Snijdelwijk,8400126,stoptreinstation,Local station,False,NL,52.067658,4.646186
+BHDV,Boven-Hardinxveld,Boven-Hardinxv.,8400236,stoptreinstation,Local station,False,NL,51.832222,4.878056
+BKF,Bovenkarspel Flora,Bovenkarspel Fl.,8400230,stoptreinstation,Local station,False,NL,52.696109771729,5.2527775764465
+BKG,Bovenkarspel-Grootebroek,Bovenkarspel-Gr.,8400127,stoptreinstation,Local station,False,NL,52.694999694824,5.2377777099609
+BMR,Boxmeer,Boxmeer,8400128,knooppuntStoptreinstation,Local station,True,NL,51.644521767653,5.9390330314636
+BTL,Boxtel,Boxtel,8400129,knooppuntStoptreinstation,Local station,True,NL,51.58433,5.31912
+BD,Breda,Breda,8400131,knooppuntIntercitystation,Intercity station,True,NL,51.595554351807,4.7800002098083
+BDPB,Breda-Prinsenbeek,Prinsenbeek,8400132,stoptreinstation,Local station,False,NL,51.606388092041,4.7208333015442
+BKL,Breukelen,Breukelen,8400133,knooppuntStoptreinstation,Local station,True,NL,52.17149,4.9906
+BMN,Brummen,Brummen,8400136,stoptreinstation,Local station,False,NL,52.091110229492,6.1469445228577
+BP,Buitenpost,Buitenpost,8400139,knooppuntSneltreinstation,Fast-train station,True,NL,53.2564547,6.1446496
+BDE,Bunde,Bunde,8400140,stoptreinstation,Local station,False,NL,50.896945953369,5.7366666793823
+BNK,Bunnik,Bunnik,8400141,stoptreinstation,Local station,False,NL,52.063056945801,5.1944446563721
+BSMZ,Bussum Zuid,Bussum Zuid,8400145,stoptreinstation,Local station,False,NL,52.26583480835,5.1630554199219
+CPS,Capelle Schollevaar,Schollevaar,8400147,stoptreinstation,Local station,False,NL,51.954166412354,4.5841665267944
+CAS,Castricum,Castricum,8400151,intercitystation,Intercity station,False,NL,52.545833587646,4.6586112976074
+CVM,Chevremont,Chevremont,8400152,stoptreinstation,Local station,False,NL,50.876110076904,6.0597224235535
+CO,Coevorden,Coevorden,8400153,knooppuntSneltreinstation,Fast-train station,True,NL,52.663612365723,6.7355556488037
+CK,Cuijk,Cuijk,8400155,stoptreinstation,Local station,False,NL,51.726682587905,5.8742952346802
+CL,Culemborg,Culemborg,8400154,stoptreinstation,Local station,False,NL,51.946666717529,5.2269444465637
+DA,Daarlerveen,Daarlerveen,8400164,stoptreinstation,Local station,False,NL,52.4407702,6.5759947
+DLN,Dalen,Dalen,8400161,stoptreinstation,Local station,False,NL,52.69416809082,6.7580556869507
+DL,Dalfsen,Dalfsen,8400167,sneltreinstation,Fast-train station,False,NL,52.498332977295,6.25861120224
+DVNK,De Vink,De Vink,8400188,stoptreinstation,Local station,False,NL,52.147220611572,4.4563889503479
+DWE,De Westereen,De Westereen,8400745,stoptreinstation,Local station,False,NL,53.24817,6.03463
+DEI,Deinum,Deinum,8400168,stoptreinstation,Local station,False,NL,53.1888115,5.7281572
+DDN,Delden,Delden,8400169,stoptreinstation,Local station,False,NL,52.259998321533,6.7161111831665
+DT,Delft,Delft,8400170,knooppuntIntercitystation,Intercity station,True,NL,52.00666809082,4.3563890457153
+DTCP,Delft Campus,Delft Campus,8400166,stoptreinstation,Local station,False,NL,51.990833282471,4.3647222518921
+DZ,Delfzijl,Delfzijl,8400171,stoptreinstation,Local station,False,NL,53.3336625,6.9240797
+DZW,Delfzijl West,Delfzijl West,8400175,stoptreinstation,Local station,False,NL,53.3320834,6.9069092
+DLD,Den Dolder,Den Dolder,8400179,knooppuntStoptreinstation,Local station,True,NL,52.140277862549,5.2427778244019
+GVC,Den Haag Centraal,Den Haag C.,8400282,megastation,Mega station,False,NL,52.080276489258,4.3249998092651
+GV,Den Haag HS,Den Haag HS,8400280,knooppuntIntercitystation,Intercity station,True,NL,52.069721221924,4.3225002288818
+LAA,Den Haag Laan v NOI,Laan v NOI,8400380,knooppuntStoptreinstation,Local station,True,NL,52.078609466553,4.3427777290344
+GVM,Den Haag Mariahoeve,Mariahoeve,8400278,stoptreinstation,Local station,False,NL,52.090557098389,4.3694443702698
+GVMW,Den Haag Moerwijk,Moerwijk,8400279,stoptreinstation,Local station,False,NL,52.053890228271,4.3086109161377
+YPB,Den Haag Ypenburg,Ypenburg,8400379,stoptreinstation,Local station,False,NL,52.055278778076,4.39222240448
+HDR,Den Helder,Den Helder,8400311,intercitystation,Intercity station,False,NL,52.955276489258,4.7611112594605
+HDRZ,Den Helder Zuid,Den Helder Zuid,8400303,stoptreinstation,Local station,False,NL,52.932498931885,4.7641668319702
+DN,Deurne,Deurne,8400172,stoptreinstation,Local station,False,NL,51.455833435059,5.7888889312744
+DV,Deventer,Deventer,8400173,knooppuntIntercitystation,Intercity station,True,NL,52.257499694824,6.1605553627014
+DVC,Deventer Colmschate,Colmschate,8400185,stoptreinstation,Local station,False,NL,52.2502784729,6.2144446372986
+DID,Didam,Didam,8400174,stoptreinstation,Local station,False,NL,51.933502,6.1324106
+DMN,Diemen,Diemen,8400165,stoptreinstation,Local station,False,NL,52.34515,4.967566
+DMNZ,Diemen Zuid,Diemen Zuid,8400163,stoptreinstation,Local station,False,NL,52.330276489258,4.9558334350586
+DR,Dieren,Dieren,8400176,intercitystation,Intercity station,False,NL,52.044998168945,6.1030554771423
+DTC,Doetinchem,Doetinchem,8400177,knooppuntStoptreinstation,Local station,True,NL,51.9585962,6.2962148
+DTCH,Doetinchem De Huet,De Huet,8400184,stoptreinstation,Local station,False,NL,51.9591413,6.2598521
+DDR,Dordrecht,Dordrecht,8400180,knooppuntIntercitystation,Intercity station,True,NL,51.807220458984,4.668333530426
+DDRS,Dordrecht Stadspolders,Stadspolders,8400186,stoptreinstation,Local station,False,NL,51.801944732666,4.7166666984558
+DDZD,Dordrecht Zuid,Dordrecht Zuid,8400181,stoptreinstation,Local station,False,NL,51.790000915527,4.6713891029358
+DB,Driebergen-Zeist,Driebergen-Zeist,8400182,knooppuntStoptreinstation,Local station,True,NL,52.065277099609,5.25861120224
+DRH,Driehuis,Driehuis,8400183,stoptreinstation,Local station,False,NL,52.442501068115,4.6380553245544
+DRP,Dronryp,Dronryp,8400192,stoptreinstation,Local station,False,NL,53.1778086,5.6347411
+DRON,Dronten,Dronten,8400198,stoptreinstation,Local station,False,NL,52.5344,5.72089
+DVN,Duiven,Duiven,8400193,stoptreinstation,Local station,False,NL,51.943332672119,6.0147223472595
+DVD,Duivendrecht,Duivendrecht,8400194,knooppuntStoptreinstation,Local station,True,NL,52.323333740234,4.9363889694214
+EC,Echt,Echt,8400195,stoptreinstation,Local station,False,NL,51.100555419922,5.8788890838623
+EDC,Ede Centrum,Ede C.,8400201,stoptreinstation,Local station,False,NL,52.043609619141,5.668333530426
+ED,Ede-Wageningen,Ede-Wageningen,8400200,knooppuntIntercitystation,Intercity station,True,NL,52.027778625488,5.6730556488037
+EEM,Eemshaven,Eemshaven,8400202,stoptreinstation,Local station,False,NL,53.458419,6.832
+EDN,Eijsden,Eijsden,8400219,stoptreinstation,Local station,False,NL,50.771945953369,5.710000038147
+EHV,Eindhoven Centraal,Eindhoven C.,8400206,megastation,Mega station,False,NL,51.443332672119,5.4813890457153
+EHS,Eindhoven Strijp-S,Strijp-S,8400196,stoptreinstation,Local station,False,NL,51.451110839844,5.4558334350586
+EST,Elst,Elst,8400207,knooppuntStoptreinstation,Local station,True,NL,51.916942596435,5.8550000190735
+EMN,Emmen,Emmen,8400208,sneltreinstation,Fast-train station,False,NL,52.790000915527,6.8994445800781
+EMNZ,Emmen Zuid,Emmen Zuid,8400407,sneltreinstation,Fast-train station,False,NL,52.748866374691,6.8747806549072
+EKZ,Enkhuizen,Enkhuizen,8400210,stoptreinstation,Local station,False,NL,52.699165344238,5.286388874054
+ES,Enschede,Enschede,8400212,knooppuntIntercitystation,Intercity station,True,NL,52.222499847412,6.8899998664856
+ESE,Enschede De Eschmarke,De Eschmarke,8400217,stoptreinstation,Local station,False,NL,52.221389770508,6.9511113166809
+ESK,Enschede Kennispark,Kennispark,8400221,stoptreinstation,Local station,False,NL,52.23749923706,6.8388891220093
+EML,Ermelo,Ermelo,8400216,stoptreinstation,Local station,False,NL,52.301666259766,5.6147222518921
+ETN,Etten-Leur,Etten-Leur,8400218,intercitystation,Intercity station,False,NL,51.57500076294,4.6358332633972
+EGH,Eygelshoven,Eygelshoven,8400338,stoptreinstation,Local station,False,NL,50.890556335449,6.0450000762939
+EGHM,Eygelshoven Markt,Eygelshoven Mrkt,8400234,stoptreinstation,Local station,False,NL,50.896049819644,6.0602474212646
+FWD,Feanwâlden,Feanwâlden,8400638,stoptreinstation,Local station,False,NL,53.2351834,5.9886615
+FN,Franeker,Franeker,8400232,stoptreinstation,Local station,False,NL,53.1824488,5.5483094
+GDR,Gaanderen,Gaanderen,8400241,stoptreinstation,Local station,False,NL,51.93074,6.3486
+GDM,Geldermalsen,Geldermalsen,8400244,knooppuntStoptreinstation,Local station,True,NL,51.88301,5.27127
+GP,Geldrop,Geldrop,8400245,knooppuntStoptreinstation,Local station,True,NL,51.419723510742,5.5505557060242
+GLN,Geleen Oost,Geleen Oost,8400246,stoptreinstation,Local station,False,NL,50.966945648193,5.8430557250977
+LUT,Geleen-Lutterade,Geleen-Lut.,8400248,stoptreinstation,Local station,False,NL,50.975555419922,5.8247222900391
+GZ,Gilze-Rijen,Gilze-Rijen,8400251,stoptreinstation,Local station,False,NL,51.583610534668,4.9261112213135
+GBR,Glanerbrug,Glanerbrug,8400262,stoptreinstation,Local station,False,NL,52.218612670898,6.9744443893433
+GS,Goes,Goes,8400253,stoptreinstation,Local station,False,NL,51.498054504395,3.8905556201935
+GO,Goor,Goor,8400254,stoptreinstation,Local station,False,NL,52.230278015137,6.5844445228577
+GR,Gorinchem,Gorinchem,8400256,knooppuntStoptreinstation,Local station,True,NL,51.833889007568,4.9683332443237
+GD,Gouda,Gouda,8400258,knooppuntIntercitystation,Intercity station,True,NL,52.017501831055,4.7044444084167
+GDG,Gouda Goverwelle,Goverwelle,8400257,stoptreinstation,Local station,False,NL,52.014999389648,4.7408332824707
+GBG,Gramsbergen,Gramsbergen,8400259,stoptreinstation,Local station,False,NL,52.60916519165,6.6758332252502
+GK,Grijpskerk,Grijpskerk,8400267,stoptreinstation,Local station,False,NL,53.255740325573,6.3097786903381
+GN,Groningen,Groningen,8400263,knooppuntIntercitystation,Intercity station,True,NL,53.210556030273,6.5647220611572
+GERP,Groningen Europapark,Europapark,8400238,stoptreinstation,Local station,False,NL,53.20480027,6.5854178
+GNN,Groningen Noord,Groningen Noord,8400264,stoptreinstation,Local station,False,NL,53.2301469,6.5563172
+GW,Grou-Jirnsum,Grou-Jirnsum,8400266,stoptreinstation,Local station,False,NL,53.088890075684,5.8225002288818
+HLM,Haarlem,Haarlem,8400285,knooppuntIntercitystation,Intercity station,True,NL,52.38777923584,4.6383333206177
+HLMS,Haarlem Spaarnwoude,Spaarnwoude,8400270,stoptreinstation,Local station,False,NL,52.382778167725,4.6730556488037
+HWZB,Halfweg-Zwanenburg,Halfweg-Zw.,8400400,stoptreinstation,Local station,False,NL,52.385935,4.747165
+HDB,Hardenberg,Hardenberg,8400293,sneltreinstation,Fast-train station,False,NL,52.572776794434,6.6286110877991
+HD,Harderwijk,Harderwijk,8400294,knooppuntStoptreinstation,Local station,True,NL,52.337501525879,5.619722366333
+HBZM,Hardinxveld Blauwe Zoom,Blauwe Zoom,8400438,stoptreinstation,Local station,False,NL,51.82944,4.81556
+GND,Hardinxveld-Giessendam,Hardinxveld-G.,8400295,stoptreinstation,Local station,False,NL,51.830554962158,4.8358335494995
+HRN,Haren,Haren,8400297,stoptreinstation,Local station,False,NL,53.176109313965,6.6172223091125
+HLG,Harlingen,Harlingen,8400296,stoptreinstation,Local station,False,NL,53.1704205,5.4251932
+HLGH,Harlingen Haven,Harlingen Haven,8400298,stoptreinstation,Local station,False,NL,53.174917,5.4112885
+HK,Heemskerk,Heemskerk,8400317,stoptreinstation,Local station,False,NL,52.495277404785,4.6869444847107
+HAD,Heemstede-Aerdenhout,Heemstede-A.,8400302,intercitystation,Intercity station,False,NL,52.35916519165,4.6066665649414
+HR,Heerenveen,Heerenveen,8400305,intercitystation,Intercity station,False,NL,52.961387634277,5.9141664505005
+HRY,Heerenveen IJsstadion,IJsstadion,8400301,facultatiefStation,Local station,False,NL,52.935276031494,5.9438886642456
+HWD,Heerhugowaard,Heerhugowaard,8400306,knooppuntStoptreinstation,Local station,True,NL,52.669723510742,4.8227777481079
+HRL,Heerlen,Heerlen,8400307,knooppuntIntercitystation,Intercity station,True,NL,50.89083480835,5.9749999046326
+HRLW,Heerlen Woonboulevard,Hrl Woonblvd,8400404,stoptreinstation,Local station,False,NL,50.896667,5.952222
+HZE,Heeze,Heeze,8400308,stoptreinstation,Local station,False,NL,51.384998321533,5.5694446563721
+HLO,Heiloo,Heiloo,8400309,stoptreinstation,Local station,False,NL,52.599445343018,4.7005553245544
+HNO,Heino,Heino,8400310,stoptreinstation,Local station,False,NL,52.427223205566,6.2211112976074
+HM,Helmond,Helmond,8400313,knooppuntIntercitystation,Intercity station,True,NL,51.475555419922,5.6619443893433
+HMH,Helmond 't Hout,'t Hout,8400300,stoptreinstation,Local station,False,NL,51.46794,5.63085
+HMBV,Helmond Brandevoort,Brandevoort,8400242,stoptreinstation,Local station,False,NL,51.462223052979,5.6072220802307
+HMBH,Helmond Brouwhuis,Brouwhuis,8400299,stoptreinstation,Local station,False,NL,51.47068,5.70177
+HMN,Hemmen-Dodewaard,Hemmen-Dodew.,8400315,stoptreinstation,Local station,False,NL,51.9222129,5.6737254
+HGL,Hengelo,Hengelo,8400316,knooppuntIntercitystation,Intercity station,True,NL,52.261665344238,6.7938890457153
+HGLG,Hengelo Gezondheidspark,Hengelo Gezondh.,8400433,stoptreinstation,Local station,False,NL,52.261667,6.767778
+HGLO,Hengelo Oost,Hengelo Oost,8400312,stoptreinstation,Local station,False,NL,52.268890380859,6.8194446563721
+HIL,Hillegom,Hillegom,8400329,stoptreinstation,Local station,False,NL,52.302501678467,4.5655555725098
+HVS,Hilversum,Hilversum,8400322,knooppuntIntercitystation,Intercity station,True,NL,52.225833892822,5.1819443702698
+HVSM,Hilversum Media Park,Media Park,8400324,stoptreinstation,Local station,False,NL,52.238056182861,5.1738886833191
+HVSP,Hilversum Sportpark,Sportpark,8400570,stoptreinstation,Local station,False,NL,52.216110229492,5.1872220039368
+HNP,Hindeloopen,Hindeloopen,8400323,stoptreinstation,Local station,False,NL,52.9464903,5.423063
+HB,Hoensbroek,Hoensbroek,8400326,stoptreinstation,Local station,False,NL,50.905555725098,5.9305553436279
+HVL,Hoevelaken,Hoevelaken,8400490,stoptreinstation,Local station,False,NL,52.16652,5.45718
+HOR,Hollandsche Rading,Holl. Rading,8400327,stoptreinstation,Local station,False,NL,52.17777633667,5.1791667938232
+HON,Holten,Holten,8400328,stoptreinstation,Local station,False,NL,52.283889770508,6.42027759552
+HFD,Hoofddorp,Hoofddorp,8400332,stoptreinstation,Local station,False,NL,52.293334960938,4.7005553245544
+HGV,Hoogeveen,Hoogeveen,8400330,stoptreinstation,Local station,False,NL,52.733890533447,6.4736108779907
+HGZ,Hoogezand-Sappemeer,Hoogezand-Sap.,8400331,knooppuntStoptreinstation,Local station,True,NL,53.159818131676,6.7707538604736
+HKS,Hoogkarspel,Hoogkarspel,8400334,stoptreinstation,Local station,False,NL,52.69055557251,5.1838889122009
+HN,Hoorn,Hoorn,8400337,knooppuntIntercitystation,Intercity station,True,NL,52.644721984863,5.0555553436279
+HNK,Hoorn Kersenboogerd,Kersenboogerd,8400336,stoptreinstation,Local station,False,NL,52.653610229492,5.0855555534363
+HRT,Horst-Sevenum,Horst-Sevenum,8400339,stoptreinstation,Local station,False,NL,51.426387786865,6.0422220230103
+HTN,Houten,Houten,8400340,knooppuntStoptreinstation,Local station,True,NL,52.03402,5.16821
+HTNC,Houten Castellum,Castellum,8400335,stoptreinstation,Local station,False,NL,52.01701,5.17949
+SGL,Houthem-St. Gerlach,Houthem-St Gerl.,8400341,stoptreinstation,Local station,False,NL,50.873332977295,5.7972221374512
+HDG,Hurdegaryp,Hurdegaryp,8400292,stoptreinstation,Local station,False,NL,53.2187783,5.934543
+IJT,IJlst,IJlst,8400722,stoptreinstation,Local station,False,NL,53.0146614,5.6160801
+KPN,Kampen,Kampen,8400353,stoptreinstation,Local station,False,NL,52.559722900391,5.9216666221619
+KPNZ,Kampen Zuid,Kampen Zuid,8400360,stoptreinstation,Local station,False,NL,52.5331,5.91309
+BZL,Kapelle-Biezelinge,Kapelle-Biezel.,8400354,stoptreinstation,Local station,False,NL,51.480834960938,3.9561111927033
+KRD,Kerkrade Centrum,Kerkrade C.,8400355,knooppuntStoptreinstation,Local station,True,NL,50.861667633057,6.0574998855591
+KTR,Kesteren,Kesteren,8400359,stoptreinstation,Local station,False,NL,51.9313869,5.5833465
+KBK,Klarenbeek,Klarenbeek,8400361,stoptreinstation,Local station,False,NL,52.17805480957,6.0836110115051
+KMR,Klimmen-Ransdaal,Klimmen-Ransdaal,8400362,stoptreinstation,Local station,False,NL,50.866390228271,5.8905553817749
+KZ,Koog aan de Zaan,Koog a.d. Zaan,8400363,stoptreinstation,Local station,False,NL,52.458610534668,4.8055553436279
+KMW,Koudum-Molkwerum,Koudum-Molkwerum,8400366,stoptreinstation,Local station,False,NL,52.9028197,5.4106913
+KBD,Krabbendijke,Krabbendijke,8400367,stoptreinstation,Local station,False,NL,51.433334350586,4.1169443130493
+KMA,Krommenie-Assendelft,Krommenie-Ass.,8400368,stoptreinstation,Local station,False,NL,52.49511,4.75417
+KW,Kropswolde,Kropswolde,8400369,stoptreinstation,Local station,False,NL,53.1617362,6.7220882
+KRG,Kruiningen-Yerseke,Kruiningen-Y.,8400370,stoptreinstation,Local station,False,NL,51.465000152588,4.0372223854065
+ZLW,Lage Zwaluwe,Lage Zwaluwe,8400382,knooppuntStoptreinstation,Local station,True,NL,51.69111251831,4.6630554199219
+LG,Landgraaf,Landgraaf,8400548,knooppuntStoptreinstation,Local station,True,NL,50.896389007568,6.019166469574
+LLZM,Lansingerland-Zoetermeer,Lansingerland,8400135,stoptreinstation,Local station,False,NL,52.042222,4.517222
+LDM,Leerdam,Leerdam,8400386,stoptreinstation,Local station,False,NL,51.894721984863,5.0913887023926
+LW,Leeuwarden,Leeuwarden,8400387,knooppuntIntercitystation,Intercity station,True,NL,53.195835113525,5.7922220230103
+LWC,Leeuwarden Camminghaburen,Camminghaburen,8400389,stoptreinstation,Local station,False,NL,53.2021808,5.8422968
+LEDN,Leiden Centraal,Leiden C.,8400390,knooppuntIntercitystation,Intercity station,True,NL,52.166110992432,4.4816665649414
+LDL,Leiden Lammenschans,Lammenschans,8400384,stoptreinstation,Local station,False,NL,52.146945953369,4.4924998283386
+LLS,Lelystad Centrum,Lelystad C.,8400394,knooppuntIntercitystation,Intercity station,True,NL,52.507778167725,5.4727778434753
+LTV,Lichtenvoorde-Groenlo,Lichtenvoorde-G.,8400395,stoptreinstation,Local station,False,NL,52.01188,6.59641
+LC,Lochem,Lochem,8400399,stoptreinstation,Local station,False,NL,52.166667938232,6.4263887405395
+LP,Loppersum,Loppersum,8400403,stoptreinstation,Local station,False,NL,53.3347145,6.7472625
+LTN,Lunteren,Lunteren,8400405,stoptreinstation,Local station,False,NL,52.085277557373,5.6244444847107
+MZ,Maarheeze,Maarheeze,8400432,stoptreinstation,Local station,False,NL,51.304986,5.629796
+MRN,Maarn,Maarn,8400417,knooppuntStoptreinstation,Local station,True,NL,52.064167022705,5.3699998855591
+MAS,Maarssen,Maarssen,8400419,stoptreinstation,Local station,False,NL,52.135276794434,5.0336112976074
+MT,Maastricht,Maastricht,8400424,knooppuntIntercitystation,Intercity station,True,NL,50.850276947021,5.7055554389954
+MTN,Maastricht Noord,Maastricht Noord,8400449,stoptreinstation,Local station,False,NL,50.87087,5.71774
+MTR,Maastricht Randwyck,Randwyck,8400426,knooppuntStoptreinstation,Local station,True,NL,50.838611602783,5.7172222137451
+MG,Mantgum,Mantgum,8400427,stoptreinstation,Local station,False,NL,53.1296368,5.7131996
+MRB,Mariënberg,Mariënberg,8400428,knooppuntSneltreinstation,Fast-train station,True,NL,52.50944519043,6.5752778053284
+MTH,Martenshoek,Martenshoek,8400430,stoptreinstation,Local station,False,NL,53.1607232,6.7402989
+MES,Meerssen,Meerssen,8400434,sneltreinstation,Fast-train station,False,NL,50.882879392551,5.7509994506836
+MP,Meppel,Meppel,8400435,knooppuntStoptreinstation,Local station,True,NL,52.69083404541,6.1975002288818
+MDB,Middelburg,Middelburg,8400436,stoptreinstation,Local station,False,NL,51.494720458984,3.6172223091126
+MMLH,Mook-Molenhoek,Molenhoek,8400446,stoptreinstation,Local station,False,NL,51.766262,5.879133
+NDB,Naarden-Bussum,Naarden-Bussum,8400452,knooppuntStoptreinstation,Local station,True,NL,52.280277252197,5.1569442749023
+NWAD,Nieuw Amsterdam,Nw. Amsterdam,8400454,sneltreinstation,Fast-train station,False,NL,52.718612670898,6.8486108779907
+NVP,Nieuw Vennep,Nieuw Vennep,8400460,stoptreinstation,Local station,False,NL,52.258888244629,4.6455554962158
+NWK,Nieuwerkerk a/d IJssel,Nieuwerkerk,8400455,stoptreinstation,Local station,False,NL,51.965278625488,4.6169443130493
+NKK,Nijkerk,Nijkerk,8400469,stoptreinstation,Local station,False,NL,52.222221374512,5.4938888549805
+NM,Nijmegen,Nijmegen,8400470,knooppuntIntercitystation,Intercity station,True,NL,51.843612670898,5.8522224426269
+NMD,Nijmegen Dukenburg,Dukenburg,8400475,stoptreinstation,Local station,False,NL,51.824165344238,5.7955555915833
+NMGO,Nijmegen Goffert,Goffert,8400477,stoptreinstation,Local station,False,NL,51.8273,5.822722
+NMH,Nijmegen Heyendaal,Nm Heyendaal,8400468,stoptreinstation,Local station,False,NL,51.826946258545,5.8674998283386
+NML,Nijmegen Lent,Lent,8400451,stoptreinstation,Local station,False,NL,51.863154,5.859625
+NVD,Nijverdal,Nijverdal,8400472,stoptreinstation,Local station,False,NL,52.366111,6.462
+NS,Nunspeet,Nunspeet,8400466,stoptreinstation,Local station,False,NL,52.370834350586,5.7852778434753
+NH,Nuth,Nuth,8400467,stoptreinstation,Local station,False,NL,50.919445037842,5.8927779197693
+OBD,Obdam,Obdam,8400480,stoptreinstation,Local station,False,NL,52.67805480957,4.9072222709656
+OT,Oisterwijk,Oisterwijk,8400482,stoptreinstation,Local station,False,NL,51.582221984863,5.1941666603088
+ODZ,Oldenzaal,Oldenzaal,8400483,stoptreinstation,Local station,False,NL,52.30638885498,6.9347224235535
+OST,Olst,Olst,8400486,intercitystation,Intercity station,False,NL,52.334720611572,6.1130557060242
+OMN,Ommen,Ommen,8400487,knooppuntSneltreinstation,Fast-train station,True,NL,52.50944519043,6.4158334732056
+OTB,Oosterbeek,Oosterbeek,8400489,stoptreinstation,Local station,False,NL,51.994998931885,5.8400001525879
+OP,Opheusden,Opheusden,8400494,stoptreinstation,Local station,False,NL,51.9261615,5.6371145
+O,Oss,Oss,8400495,knooppuntIntercitystation,Intercity station,True,NL,51.765556335449,5.5322222709656
+OW,Oss West,Oss West,8400496,stoptreinstation,Local station,False,NL,51.758056640625,5.5055556297302
+ODB,Oudenbosch,Oudenbosch,8400498,stoptreinstation,Local station,False,NL,51.587776184082,4.5333333015442
+OVN,Overveen,Overveen,8400501,stoptreinstation,Local station,False,NL,52.391109466553,4.6061110496521
+PMR,Purmerend,Purmerend,8400508,knooppuntStoptreinstation,Local station,True,NL,52.50305557251,4.9536108970642
+PMO,Purmerend Overwhere,Overwhere,8400506,stoptreinstation,Local station,False,NL,52.511390686035,4.9683332443237
+PMW,Purmerend Weidevenne,Weidevenne,8400499,stoptreinstation,Local station,False,NL,52.496590632542,4.9356293678284
+PT,Putten,Putten,8400509,stoptreinstation,Local station,False,NL,52.264999389648,5.5752778053284
+RAT,Raalte,Raalte,8400513,stoptreinstation,Local station,False,NL,52.391666412354,6.2775001525879
+RVS,Ravenstein,Ravenstein,8400515,stoptreinstation,Local station,False,NL,51.794166564941,5.6358332633972
+RV,Reuver,Reuver,8400518,stoptreinstation,Local station,False,NL,51.28321916653,6.0789585113525
+RH,Rheden,Rheden,8400519,stoptreinstation,Local station,False,NL,52.0101,6.0314
+RHN,Rhenen,Rhenen,8400517,knooppuntStoptreinstation,Local station,True,NL,51.958610534668,5.5783333778381
+RSN,Rijssen,Rijssen,8400538,stoptreinstation,Local station,False,NL,52.3122215271,6.5202779769897
+RSW,Rijswijk,Rijswijk,8400505,stoptreinstation,Local station,False,NL,52.039722442627,4.3191666603088
+RB,Rilland-Bath,Rilland-Bath,8400521,stoptreinstation,Local station,False,NL,51.422779083252,4.1611108779907
+RM,Roermond,Roermond,8400523,knooppuntIntercitystation,Intercity station,True,NL,51.193054199219,5.9941668510437
+RD,Roodeschool,Roodeschool,8400525,stoptreinstation,Local station,False,NL,53.421262,6.7587
+RSD,Roosendaal,Roosendaal,8400526,knooppuntIntercitystation,Intercity station,True,NL,51.540279388428,4.4583334922791
+RS,Rosmalen,Rosmalen,8400524,stoptreinstation,Local station,False,NL,51.714721679688,5.3680553436279
+RTA,Rotterdam Alexander,Alexander,8400507,intercitystation,Intercity station,False,NL,51.951946258545,4.5536112785339
+RTB,Rotterdam Blaak,Blaak,8400529,stoptreinstation,Local station,False,NL,51.920276641846,4.4888887405395
+RTD,Rotterdam Centraal,Rotterdam C.,8400530,megastation,Mega station,False,NL,51.92499923706,4.468888759613
+RLB,Rotterdam Lombardijen,Lombardijen,8400542,stoptreinstation,Local station,False,NL,51.880001068115,4.531388759613
+RTN,Rotterdam Noord,Rotterdam Noord,8400531,stoptreinstation,Local station,False,NL,51.942222595215,4.4816665649414
+RTST,Rotterdam Stadion,R'dam Stadion,8400534,facultatiefStation,Local station,False,NL,51.893890380859,4.5197219848633
+RTZ,Rotterdam Zuid,Rotterdam Zuid,8400533,stoptreinstation,Local station,False,NL,51.904445648193,4.5102777481079
+RL,Ruurlo,Ruurlo,8400537,stoptreinstation,Local station,False,NL,52.0810888,6.4492656
+SPTN,Santpoort Noord,Santpoort Noord,8400543,stoptreinstation,Local station,False,NL,52.43388748169,4.6325001716614
+SPTZ,Santpoort Zuid,Santpoort Zuid,8400544,stoptreinstation,Local station,False,NL,52.419723510742,4.6313886642456
+SSH,Sassenheim,Sassenheim,8400603,stoptreinstation,Local station,False,NL,52.215278,4.517222
+SWD,Sauwerd,Sauwerd,8400547,stoptreinstation,Local station,False,NL,53.29113,6.5404
+SGN,Schagen,Schagen,8400549,stoptreinstation,Local station,False,NL,52.784442901611,4.8052778244019
+SDA,Scheemda,Scheemda,8400551,stoptreinstation,Local station,False,NL,53.1655362,6.9777775
+SDM,Schiedam Centrum,Schiedam C.,8400553,stoptreinstation,Local station,False,NL,51.921243812803,4.4089937210083
+SOG,Schin op Geul,Schin op Geul,8400555,stoptreinstation,Local station,False,NL,50.856388092041,5.8722224235535
+SN,Schinnen,Schinnen,8400554,stoptreinstation,Local station,False,NL,50.939167022705,5.8744444847107
+SHL,Schiphol Airport,Schiphol Airport,8400561,megastation,Mega station,False,NL,52.30944442749,4.7619442939758
+STD,Sittard,Sittard,8400564,knooppuntIntercitystation,Intercity station,True,NL,51.001667022705,5.8586111068726
+SDT,Sliedrecht,Sliedrecht,8400565,stoptreinstation,Local station,False,NL,51.829723358154,4.7783331871033
+SDTB,Sliedrecht Baanhoek,Baanhoek,8400497,stoptreinstation,Local station,False,NL,51.829722,4.743333
+SK,Sneek,Sneek,8400566,knooppuntStoptreinstation,Local station,True,NL,53.0328688,5.6523969
+SKND,Sneek Noord,Sneek Noord,8400574,stoptreinstation,Local station,False,NL,53.0409319,5.6631808
+ST,Soest,Soest,8400567,knooppuntStoptreinstation,Local station,True,NL,52.173332214355,5.3099999427795
+STZ,Soest Zuid,Soest Zuid,8400571,stoptreinstation,Local station,False,NL,52.165279388428,5.3030557632446
+SD,Soestdijk,Soestdijk,8400569,stoptreinstation,Local station,False,NL,52.183612823486,5.3000001907349
+SBK,Spaubeek,Spaubeek,8400572,stoptreinstation,Local station,False,NL,50.94327,5.850529
+STV,Stavoren,Stavoren,8400575,stoptreinstation,Local station,False,NL,52.8865535,5.3600212
+STM,Stedum,Stedum,8400576,stoptreinstation,Local station,False,NL,53.3262092,6.6875551
+SWK,Steenwijk,Steenwijk,8400578,intercitystation,Intercity station,False,NL,52.791510992432,6.1145557632446
+SRN,Susteren,Susteren,8400582,stoptreinstation,Local station,False,NL,51.061389923096,5.8630557060242
+SM,Swalmen,Swalmen,8400583,stoptreinstation,Local station,False,NL,51.23582,6.03228
+TG,Tegelen,Tegelen,8400591,stoptreinstation,Local station,False,NL,51.33894,6.14253
+TBG,Terborg,Terborg,8400592,stoptreinstation,Local station,False,NL,51.9224549,6.3642466
+TL,Tiel,Tiel,8400596,knooppuntStoptreinstation,Local station,True,NL,51.889446258545,5.4222221374512
+TPSW,Tiel Passewaaij,Passewaaij,8400600,stoptreinstation,Local station,False,NL,51.873889923096,5.39222240448
+TB,Tilburg,Tilburg,8400597,knooppuntIntercitystation,Intercity station,True,NL,51.560554504395,5.0836110115051
+TBR,Tilburg Reeshof,Reeshof,8400598,stoptreinstation,Local station,False,NL,51.573612213135,4.9944443702698
+TBU,Tilburg Universiteit,Tilburg Uni.,8400594,stoptreinstation,Local station,False,NL,51.564985,5.051778
+TWL,Twello,Twello,8400599,stoptreinstation,Local station,False,NL,52.237777709961,6.0986108779907
+UTG,Uitgeest,Uitgeest,8400615,knooppuntStoptreinstation,Local station,True,NL,52.521667480469,4.7016668319702
+UHZ,Uithuizen,Uithuizen,8400617,stoptreinstation,Local station,False,NL,53.4099568,6.6748869
+UHM,Uithuizermeeden,Uithuizermeeden,8400618,stoptreinstation,Local station,False,NL,53.4145845,6.7202975
+UST,Usquert,Usquert,8400619,stoptreinstation,Local station,False,NL,53.4014742,6.6093776
+UT,Utrecht Centraal,Utrecht C.,8400621,megastation,Mega station,False,NL,52.088890075684,5.1102776527405
+UTLR,Utrecht Leidsche Rijn,Leidsche Rijn,8400607,stoptreinstation,Local station,False,NL,52.09896,5.06523
+UTLN,Utrecht Lunetten,Lunetten,8400623,stoptreinstation,Local station,False,NL,52.06555557251,5.144166469574
+UTM,Utrecht Maliebaan,Maliebaan,8400624,stoptreinstation,Local station,False,NL,52.087776184082,5.1313886642456
+UTO,Utrecht Overvecht,Overvecht,8400620,knooppuntStoptreinstation,Local station,True,NL,52.110000610352,5.1247220039368
+UTT,Utrecht Terwijde,Terwijde,8400614,stoptreinstation,Local station,False,NL,52.1000753,5.0439547
+UTVR,Utrecht Vaartsche Rijn,Vaartsche Rijn,8400606,knooppuntStoptreinstation,Local station,True,NL,52.078889,5.121667
+UTZL,Utrecht Zuilen,Zuilen,8400613,stoptreinstation,Local station,False,NL,52.103055,5.09
+VK,Valkenburg,Valkenburg,8400632,knooppuntSneltreinstation,Fast-train station,True,NL,50.869720458984,5.8322219848633
+VSV,Varsseveld,Varsseveld,8400635,stoptreinstation,Local station,False,NL,51.937257,6.458839
+VDM,Veendam,Veendam,8400636,knooppuntStoptreinstation,Local station,True,NL,53.10324,6.88475
+VNDC,Veenendaal Centrum,Veenendaal C.,8400627,knooppuntStoptreinstation,Local station,True,NL,52.020000457764,5.548611164093
+VNDW,Veenendaal West,Veenendaal West,8400628,stoptreinstation,Local station,False,NL,52.028057098389,5.531388759613
+KLP,Veenendaal-De Klomp,De Klomp,8400637,stoptreinstation,Local station,False,NL,52.045833587646,5.5738887786865
+VP,Velp,Velp,8400640,stoptreinstation,Local station,False,NL,51.994720458984,5.9802780151367
+VL,Venlo,Venlo,8400644,knooppuntIntercitystation,Intercity station,True,NL,51.363609313965,6.1727776527405
+VRY,Venray,Venray,8400646,knooppuntStoptreinstation,Local station,True,NL,51.526568099007,6.0141777992248
+VLB,Vierlingsbeek,Vierlingsbeek,8400647,stoptreinstation,Local station,False,NL,51.59193,5.99714
+VTN,Vleuten,Vleuten,8400651,stoptreinstation,Local station,False,NL,52.103056,5.007404
+VS,Vlissingen,Vlissingen,8400652,knooppuntIntercitystation,Intercity station,True,NL,51.445835113525,3.5952777862549
+VSS,Vlissingen Souburg,Souburg,8400653,stoptreinstation,Local station,False,NL,51.464721679688,3.5952777862549
+VDL,Voerendaal,Voerendaal,8400656,stoptreinstation,Local station,False,NL,50.887222290039,5.9302778244019
+VB,Voorburg,Voorburg,8400658,stoptreinstation,Local station,False,NL,52.066665649414,4.3594446182251
+VH,Voorhout,Voorhout,8400655,stoptreinstation,Local station,False,NL,52.224445343018,4.4844446182251
+VST,Voorschoten,Voorschoten,8400659,stoptreinstation,Local station,False,NL,52.1252784729,4.4324998855591
+VEM,Voorst-Empe,Voorst-Empe,8400668,stoptreinstation,Local station,False,NL,52.157501220703,6.1436109542847
+VD,Vorden,Vorden,8400661,stoptreinstation,Local station,False,NL,52.1071949,6.3170457
+VZ,Vriezenveen,Vriezenveen,8400664,stoptreinstation,Local station,False,NL,52.40203,6.60041
+VHP,Vroomshoop,Vroomshoop,8400666,stoptreinstation,Local station,False,NL,52.4571921,6.5696679
+VG,Vught,Vught,8400667,stoptreinstation,Local station,False,NL,51.655555725098,5.2919445037842
+WAD,Waddinxveen,Waddinxveen,8400675,stoptreinstation,Local station,False,NL,52.044166564941,4.6497220993042
+WADN,Waddinxveen Noord,Waddinxveen N.,8400674,stoptreinstation,Local station,False,NL,52.055000305176,4.6483335494995
+WADT,Waddinxveen Triangel,Triangel,8400677,stoptreinstation,Local station,False,NL,52.02725,4.6491
+WFM,Warffum,Warffum,8400679,stoptreinstation,Local station,False,NL,53.3908431,6.5671364
+WT,Weert,Weert,8400684,intercitystation,Intercity station,False,NL,51.248611450195,5.7036108970642
+WP,Weesp,Weesp,8400685,knooppuntStoptreinstation,Local station,True,NL,52.3127784729,5.0430555343628
+WL,Wehl,Wehl,8400686,stoptreinstation,Local station,False,NL,51.9578065,6.213844
+WTV,Westervoort,Westervoort,8400688,stoptreinstation,Local station,False,NL,51.96286,5.9695
+WZ,Wezep,Wezep,8400690,stoptreinstation,Local station,False,NL,52.454166412354,6.0025000572205
+WDN,Wierden,Wierden,8400691,knooppuntStoptreinstation,Local station,True,NL,52.361389160156,6.5916666984558
+WC,Wijchen,Wijchen,8400710,stoptreinstation,Local station,False,NL,51.811668395996,5.730833530426
+WH,Wijhe,Wijhe,8400711,intercitystation,Intercity station,False,NL,52.390277862549,6.1405553817749
+WS,Winschoten,Winschoten,8400696,knooppuntStoptreinstation,Local station,True,NL,53.1392377,7.035101
+WSM,Winsum,Winsum,8400697,stoptreinstation,Local station,False,NL,53.3300994,6.5202905
+WW,Winterswijk,Winterswijk,8400698,knooppuntStoptreinstation,Local station,True,NL,51.9677307,6.7155181
+WWW,Winterswijk West,Winterswijk West,8400700,stoptreinstation,Local station,False,NL,51.97453,6.70417
+WD,Woerden,Woerden,8400702,knooppuntStoptreinstation,Local station,True,NL,52.084999084473,4.8936109542847
+WF,Wolfheze,Wolfheze,8400704,stoptreinstation,Local station,False,NL,52.005554199219,5.7936110496521
+WV,Wolvega,Wolvega,8400705,stoptreinstation,Local station,False,NL,52.880832672119,6.0036110877991
+WK,Workum,Workum,8400706,stoptreinstation,Local station,False,NL,52.9724864,5.4564285
+WM,Wormerveer,Wormerveer,8400707,stoptreinstation,Local station,False,NL,52.489166259766,4.7922220230103
+ZD,Zaandam,Zaandam,8400731,knooppuntIntercitystation,Intercity station,True,NL,52.438888549805,4.8136110305786
+ZDK,Zaandam Kogerveld,Kogerveld,8400728,stoptreinstation,Local station,False,NL,52.456665039062,4.8202776908875
+ZZS,Zaandijk Zaanse Schans,Zaanse Schans,8400364,knooppuntStoptreinstation,Local station,True,NL,52.469165802002,4.8049998283386
+ZBM,Zaltbommel,Zaltbommel,8400732,stoptreinstation,Local station,False,NL,51.80888748169,5.2633333206177
+ZVT,Zandvoort aan Zee,Zandvoort,8400733,stoptreinstation,Local station,False,NL,52.3752784729,4.5327777862549
+ZA,Zetten-Andelst,Zetten-Andelst,8400734,stoptreinstation,Local station,False,NL,51.920056,5.7228408
+ZV,Zevenaar,Zevenaar,8400735,knooppuntStoptreinstation,Local station,True,NL,51.923053741455,6.0719442367554
+ZVB,Zevenbergen,Zevenbergen,8400737,stoptreinstation,Local station,False,NL,51.64042,4.60904
+ZTM,Zoetermeer,Zoetermeer,8400741,knooppuntStoptreinstation,Local station,True,NL,52.047500610352,4.4772224426269
+ZTMO,Zoetermeer Oost,Zoetermeer Oost,8400740,stoptreinstation,Local station,False,NL,52.046390533447,4.4927778244019
+ZB,Zuidbroek,Zuidbroek,8400742,knooppuntStoptreinstation,Local station,True,NL,53.159612280006,6.8679141998291
+ZH,Zuidhorn,Zuidhorn,8400743,stoptreinstation,Local station,False,NL,53.2486292,6.4062361
+ZP,Zutphen,Zutphen,8400744,knooppuntIntercitystation,Intercity station,True,NL,52.145278930664,6.1941666603088
+ZWD,Zwijndrecht,Zwijndrecht,8400752,stoptreinstation,Local station,False,NL,51.814998626709,4.6416668891907
+ZL,Zwolle,Zwolle,8400747,knooppuntIntercitystation,Intercity station,True,NL,52.504722595215,6.0919442176819
+ZLSH,Zwolle Stadshagen,Stadshagen,8400746,stoptreinstation,Local station,False,NL,52.52764,6.05146
